@@ -10,7 +10,7 @@
 
 ### 🔭 My Projects
 - 🩺 **[Diabetic Retinopathy Detection](https://github.com/Karuni001/Dibetic-Retinopathy-Detection-using-Convolutional-Neural-Network)** – CNN-based model with Streamlit deployment
-- 📖 **[Hindi-English Poetry Translator](https://github.com/Karuni001/Translation-model--Comparative-study-)** – Hybrid GPT-LSTM model for low-resource translation
+- 📖 **[Hindi-English Poetry Translator](https://github.com/Karuni001/Translational-model--a-comparative-study)** – Hybrid GPT-LSTM model for low-resource translation
 - 🧏‍♀️ **[Sign Language Detection & Generation](https://github.com/Karuni001/Sign-Language-Generation-using-GAN)** – CNN + GAN based assistive system
 - 💰 **[Finance CLI Tool](https://github.com/Karuni001/Finance-Management-Application)** – Python + SQLite-based budgeting app
 
